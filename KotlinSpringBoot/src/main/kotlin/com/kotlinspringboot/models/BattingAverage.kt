@@ -1,0 +1,1 @@
+data class BattingAverage(val hits: Double, val atBats: Double, val battingAverage: Double) {}
